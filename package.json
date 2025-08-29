@@ -69,7 +69,7 @@
     "eslint": "^9.1.0",
     "eslint-config-prettier": "^8.10.0",
     "eslint-plugin-prettier": "^3.4.1",
-    "fadge": "^0.0.2",
+    "fadge": "^0.1.1",
     "jasmine-fail-fast": "^2.0.1",
     "jest": "^30.0.0",
     "nock": "^13.5.4",
