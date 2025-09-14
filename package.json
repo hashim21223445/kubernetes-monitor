@@ -67,7 +67,7 @@
     "@typescript-eslint/eslint-plugin": "^4.33.0",
     "@typescript-eslint/parser": "^4.33.0",
     "eslint": "^9.1.0",
-    "eslint-config-prettier": "^8.10.0",
+    "eslint-config-prettier": "^8.10.2",
     "eslint-plugin-prettier": "^3.4.1",
     "fadge": "^0.0.2",
     "jasmine-fail-fast": "^2.0.1",
